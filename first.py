@@ -3,3 +3,5 @@ b= "welcome to youtube channel"
 
 print(a)
 print(b)
+
+str1 = "jjjjjjjjj"
